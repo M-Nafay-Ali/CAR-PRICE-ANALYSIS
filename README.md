@@ -1,2 +1,4 @@
 # CAR-PRICE-ANALYSIS
-Data cleaning and visualization of Car prices
+Data cleaning 
+Data visualization 
+of Car prices

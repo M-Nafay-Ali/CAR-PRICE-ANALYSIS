@@ -1,4 +1,6 @@
 # CAR-PRICE-ANALYSIS
+(Note:This is all done in Google collab mobile so many of the things cannot be done or either are glitching like peak value etc)
+
 •Python
 
 •Pandas

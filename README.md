@@ -20,3 +20,5 @@ Ans:-Since the beginning I have strong interest in cars and as for my carrier it
 
 •What did you learn?
 Ans:-I learned data visualization, cleaning, plotting graph(which suits are dataset) and is easy to explain.
+
+it was a beginner level and I learned very much from it
